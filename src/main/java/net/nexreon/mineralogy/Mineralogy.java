@@ -18,7 +18,7 @@ public class Mineralogy
     public static final String MOD_ID = "mineralogy";
     private static final Logger LOGGER = LogUtils.getLogger();
 
-
+    // VERY IMPORTANT COMMENT
     public Mineralogy()
     {
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
