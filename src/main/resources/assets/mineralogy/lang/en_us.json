@@ -1,0 +1,10 @@
+{
+  "item.mineralogy.zircon": "Zircon",
+  "item.mineralogy.raw_zircon": "Raw Zircon",
+
+  "block.mineralogy.zircon_block": "Block of Zircon",
+  "block.mineralogy.zircon_ore": "Zircon Ore",
+  "block.mineralogy.deepslate_zircon_ore": "Deepslate Zircon Ore",
+
+  "itemGroup.mineralogytab": "Mineralogy Items"
+}

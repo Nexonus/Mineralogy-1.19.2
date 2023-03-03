@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "mineralogy:zircon_ore",
+    "mineralogy:deepslate_zircon_ore",
+    "mineralogy:zircon_block"
+  ]
+}
